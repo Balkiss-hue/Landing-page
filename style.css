@@ -1,0 +1,65 @@
+.body{
+    color: #505F98;
+}
+.nav-link{
+    color: #505F98;
+}
+.banner-page{
+    background: url(./images/image6.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 70vh;
+
+}
+.vector{
+    margin: -60px 0 0 0;
+}
+.home{
+    position: relative;
+    top: 20% ;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.myBtn{
+    background-color: #111B47;
+    color: #ffffff;
+    border-radius: 2px;
+    border: none;
+    width: 14em;
+}
+.myBtn:hover{
+    color: #111B47;
+    background-color: #ffffff;
+    border: solid 1px #111B47;
+}
+@media only screen and (max-width: 1000px) {
+    .fast {text-align: center;}
+    .footer-nav{display: block; text-align: center;}
+}
+.purchase .mybtn1{
+    width: 12em;
+    background-color: #111B47;
+    color: #ffffff;
+}
+.purchase .mybtn1:hover{
+    background-color: #ffffff;
+    border: solid 1px #111B47;
+    color: #111B47;
+}
+.purchase .mybtn2{
+    width: 12em;
+    background-color: #ffffff;
+    border: solid 1px #111B47;
+}
+.purchase .mybtn2:hover{
+    background-color: #111B47;
+    color: #ffffff;
+}
+.font{
+    font-size: 0.8em;
+}
+.fas{
+    color: #091133;
+    font-size: 1.5em;
+}
